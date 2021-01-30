@@ -1,0 +1,46 @@
+{
+    "id": "/subscriptions/1ac3f484-b798-4f58-aa59-ae52efa7c185/resourceGroups/Botservice/providers/Microsoft.BotService/botServices/AkshayKokadwar",
+    "name": "AkshayKokadwar",
+    "type": "Microsoft.BotService/botServices",
+    "etag": "\"0000e844-0000-1800-0000-60131fe00000\"",
+    "location": "global",
+    "sku": {
+        "name": "S1"
+    },
+    "kind": "sdk",
+    "tags": {},
+    "properties": {
+        "displayName": "AkshayKokadwar",
+        "description": null,
+        "iconUrl": "https://docs.botframework.com/static/devportal/client/images/bot-framework-default.png",
+        "endpoint": "https://akshaykokadwar.azurewebsites.net/api/messages",
+        "msaAppId": "a1d4a9bc-9ba8-4d1f-9ea1-9ad428e2df01",
+        "developerAppInsightKey": null,
+        "developerAppInsightsApplicationId": null,
+        "luisAppIds": [],
+        "endpointVersion": "3.0",
+        "configuredChannels": [
+            "webchat",
+            "telegram"
+        ],
+        "enabledChannels": [
+            "webchat",
+            "directline",
+            "telegram"
+        ],
+        "isDeveloperAppInsightsApiKeySet": false,
+        "isStreamingSupported": false,
+        "publishingCredentials": null,
+        "parameters": null,
+        "allSettings": null,
+        "manifestUrl": null,
+        "storageResourceId": null,
+        "migrationToken": null,
+        "isCmekEnabled": false,
+        "cmekKeyVaultUrl": null,
+        "openWithHint": null,
+        "appPasswordHint": null,
+        "cmekEncryptionStatus": "Off",
+        "provisioningState": "Succeeded"
+    }
+}
